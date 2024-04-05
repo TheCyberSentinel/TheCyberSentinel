@@ -1,16 +1,13 @@
-# Hello 🤓, I'm Paul.
+# Hello, I'm Paul 🤓
 <a href="https://www.linkedin.com/in/paul-umelechi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a final year student, tech enthusiast with a knack for defense. Join me as I protect the digital realm and embrace the ever-evolving challenges of cybersecurity.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## OBJECTIVE
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+My journey in computer science has made me to become so passionate about cybersecurity. I am aspiring eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+## SKILLS
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -22,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## TOOLS
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
@@ -55,6 +52,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## PROJECTS
 - Detection Lab
 - SOC Automation Project
