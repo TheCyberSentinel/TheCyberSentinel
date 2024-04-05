@@ -5,7 +5,7 @@ I am a final year Computer Science student, a tech enthusiast with a knack for d
 
 ## OBJECTIVE
 
-My journey in computer science has made me to become so passionate about cybersecurity. I am aspiring eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
+My journey in computer science has made me to become so passionate about cybersecurity. I am aspiring to transition into this field, specifically aiming to become a Cybersecurity Analyst.
 
 ## SKILLS
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
