@@ -1,7 +1,7 @@
 # Hello, I'm Paul 🤓
 <a href="https://www.linkedin.com/in/paul-umelechi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a final year student, tech enthusiast with a knack for defense. Join me as I protect the digital realm and embrace the ever-evolving challenges of cybersecurity.
+I am a final year Computer Science student, a tech enthusiast with a knack for defense. Join me as I protect the digital realm and embrace the ever-evolving challenges of cybersecurity.
 
 ## OBJECTIVE
 
